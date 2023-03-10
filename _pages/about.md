@@ -38,28 +38,29 @@ redirect_from:
 
 # 📚 课程
 大一：
-- [Calculus I](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Book: Calculus: Early Transcendentals)
-- [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)(Book: Introduction to Linear Algebra)
+- [Calculus I](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
+- [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)(Main Book: Introduction to Linear Algebra)
 - Structure and Interpretation of Computer Programs
 - Object-Oriented Programming
-- Discrete Mathematics(Book: Discrete Mathematics and Its Applications)
+- Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
 
 大二：
-- Advanced Statistics(Book: Statistical Inference)
-- Fundamentals of Database Systems(Book: Datebase System Concepts)
-- Data Processing Workshop with Python(Book: Python Data Science Handbook: Essential Tools for Working with Data)
-- Data Structures and Algorithms(Book: Algorithms)
-- Regression Analysis(Book: Introduction To Linear Regression Analysis)
+- Advanced Statistics(Main Book: Statistical Inference)
+- Fundamentals of Database Systems(Main Book: Datebase System Concepts)
+- Data Processing Workshop with Python(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
+- Data Structures and Algorithms(Main Book: Algorithms)
+- Regression Analysis(Main Book: Introduction To Linear Regression Analysis)
 - Distributed Data Processing
-- Machine Learning(Book: Machine Learning Zhi-Hua Zhou)
-- Linear Algebra II(Book: Linear Algebra and Its Applications)
-- Calculus II(Book: Python Data Science Handbook: Essential Tools for Working with Data)
+- Machine Learning(Main Book: Machine Learning Zhi-Hua Zhou)
+- Linear Algebra II(Main Book: Linear Algebra and Its Applications)
+- Calculus II(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
 - [Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
 大三:
 - [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
 - [Design and Analysis of Algorithms](https://www.bilibili.com/video/BV11341167sn/)
 - [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3D4NPYvvY7dvXiZ0awd4zn)
+- [Calculus III](Main Book: Multivariable Calculus with Applications)
 - [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)
 - [Machine Learning with Bayes View](https://uvaml1.github.io/)(PRML)
 - [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)(ESL)
