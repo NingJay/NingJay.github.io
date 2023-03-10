@@ -53,7 +53,7 @@ redirect_from:
 - Distributed Data Processing
 - Machine Learning(Main Book: Machine Learning Zhi-Hua Zhou)
 - Linear Algebra II(Main Book: Linear Algebra and Its Applications)
-- Calculus II(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
+- Calculus II(Main Book: Calculus: Early Transcendentals)
 - [Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
 大三:
