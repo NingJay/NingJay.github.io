@@ -39,7 +39,7 @@ redirect_from:
 # 📚 课程
 大一：
 - [Calculus I](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
-- [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)(Main Book: Introduction to Linear Algebra)
+- [Linear Algebra](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Introduction to Linear Algebra)
 - Structure and Interpretation of Computer Programs
 - Object-Oriented Programming
 - Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
@@ -51,16 +51,16 @@ redirect_from:
 - Data Structures and Algorithms(Main Book: Algorithms)
 - Regression Analysis(Main Book: Introduction To Linear Regression Analysis)
 - Distributed Data Processing
-- Machine Learning(Main Book: Machine Learning Zhi-Hua Zhou)
-- Linear Algebra II(Main Book: Linear Algebra and Its Applications)
-- Calculus II(Main Book: Calculus: Early Transcendentals)
+- [Machine Learning](https://www.xuetangx.com/course/nju0802bt/14363483)(Main Book: Machine Learning Zhi-Hua Zhou)
+- [Linear Algebra II](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Linear Algebra and Its Applications)
+- [Calculus II](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
 - [Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
 大三:
 - [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
 - [Design and Analysis of Algorithms](https://www.bilibili.com/video/BV11341167sn/)
 - [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3D4NPYvvY7dvXiZ0awd4zn)
-- [Calculus III](Main Book: Multivariable Calculus with Applications)
+- Calculus III(Main Book: Multivariable Calculus with Applications)
 - [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)
 - [Machine Learning with Bayes View](https://uvaml1.github.io/)(PRML)
 - [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)(ESL)
