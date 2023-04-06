@@ -45,7 +45,7 @@ redirect_from:
 - Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
 
 大二：
-- Fundamental Statistics(Main Book: Statistical Inference)
+- [Fundamental Statistics](https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN)(Main Book: Statistical Inference)
 - Fundamentals of Database Systems(Main Book: Datebase System Concepts)
 - Data Processing Workshop with Python(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
 - Data Structures and Algorithms(Main Book: Algorithms)
