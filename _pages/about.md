@@ -45,7 +45,7 @@ redirect_from:
 - Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
 
 大二：
-- Advanced Statistics(Main Book: Statistical Inference)
+- Fundamental Statistics(Main Book: Statistical Inference)
 - Fundamentals of Database Systems(Main Book: Datebase System Concepts)
 - Data Processing Workshop with Python(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
 - Data Structures and Algorithms(Main Book: Algorithms)
@@ -68,3 +68,4 @@ redirect_from:
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
+- [Advanced Statistics](https://stat510.org/)
