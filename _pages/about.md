@@ -69,3 +69,4 @@ redirect_from:
 - [Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
 - [Advanced Statistics](https://stat510.org/)
+- [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
