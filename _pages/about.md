@@ -75,4 +75,4 @@ redirect_from:
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 
 # 🎁 我推荐的机器学习路线
-![image-path](https://article.biliimg.com/bfs/article/fdf73cdc7b48cdc9dfb23b0a72fd3a721c570c69.png)
+![image-path](https://raw.githubusercontent.com/NingJay/NingJay.github.io/master/images/Path.png)
