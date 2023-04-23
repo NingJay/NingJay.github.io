@@ -73,3 +73,6 @@ redirect_from:
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
 - [Advanced Statistics](https://stat510.org/)
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+
+# 🎁 我推荐的机器学习路线
+![image-path](../images/path.png)
