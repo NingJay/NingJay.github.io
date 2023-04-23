@@ -74,5 +74,7 @@ redirect_from:
 - [Advanced Statistics](https://stat510.org/)
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 
+
+<span class='anchor' id='-path'></span>
 # 🎁 我推荐的机器学习路线
 ![image-path](https://raw.githubusercontent.com/NingJay/NingJay.github.io/master/images/Path.png)
