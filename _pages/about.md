@@ -61,19 +61,20 @@ redirect_from:
 - [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
 - [Design and Analysis of Algorithms](https://www.bilibili.com/video/BV11341167sn/)
 - [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3D4NPYvvY7dvXiZ0awd4zn)
+- Statistical Computation(Book: Statistical Computing with R)
 - Calculus III(Main Book: Multivariable Calculus with Applications)
-- [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+- [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)(NNDL)
 - [Learning Method](https://amlbook.com/index.html)(LFD, FML)
 - [Machine Learning with Bayes View](https://uvaml1.github.io/)(PRML)
 - [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)(ESL)
 - [Natural Language Processing - A Machine Learning Perspective](https://westlakenlp.github.io/nlpml/)
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Introduction of Knowledge Graph](https://www.icourse163.org/course/ZJU-1464119172)
+- [Natural Language Processing](http://course.inf.ed.ac.uk/anlp/)
 - [Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
 - [Advanced Statistics](https://stat510.org/)
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
-
 
 <span class='anchor' id='-path'></span>
 # 🎁 我推荐的机器学习路线
