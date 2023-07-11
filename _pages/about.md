@@ -25,7 +25,6 @@ redirect_from:
 - 大语言模型
 - 多任务学习
 - 自然语言理解
-- 逻辑链
 
   
 
@@ -77,6 +76,12 @@ redirect_from:
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Large Language Modeling Techniques](https://www.openbmb.org/community/course)
 - [Scientific Paper Writing](https://mmcheng.net/writing/)
+
+<span class='anchor' id='-open'></span>
+
+# 🤖 开源项目
+
+[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1k+⭐)
 
 <span class='anchor' id='-path'></span>
 # 🎁 我推荐的机器学习路线
