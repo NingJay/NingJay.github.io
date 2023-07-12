@@ -76,6 +76,7 @@ redirect_from:
 - [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Large Language Modeling Techniques](https://www.openbmb.org/community/course)
 - [Scientific Paper Writing](https://mmcheng.net/writing/)
+- [Deep Learning on Graphs](https://yaoma24.github.io/cs785/index.html)
 
 <span class='anchor' id='-open'></span>
 
