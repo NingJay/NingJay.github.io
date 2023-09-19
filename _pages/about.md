@@ -54,7 +54,7 @@ redirect_from:
 - [Machine Learning](https://www.xuetangx.com/course/nju0802bt/14363483)(Main Book: Machine Learning Zhi-Hua Zhou)
 - [Linear Algebra II](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Linear Algebra and Its Applications)
 - [Calculus II](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
-- [Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+- [Overview of Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
 大三:
 - [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
@@ -62,10 +62,10 @@ redirect_from:
 - [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3D4NPYvvY7dvXiZ0awd4zn)
 - Statistical Computation(Book: Statistical Computing with R)
 - Calculus III(Main Book: Multivariable Calculus with Applications)
-- [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)(NNDL)
+- [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)
 - [Learning Method](https://amlbook.com/index.html)(LFD, FML)
-- [Machine Learning with Bayes View](https://uvaml1.github.io/)(PRML)
-- [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)(ESL)
+- [Machine Learning with Bayes View](https://uvaml1.github.io/)
+- [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)
 - [Natural Language Processing - A Machine Learning Perspective](https://westlakenlp.github.io/nlpml/)
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Introduction of Knowledge Graph](https://www.icourse163.org/course/ZJU-1464119172)
@@ -78,11 +78,19 @@ redirect_from:
 - [Scientific Paper Writing](https://mmcheng.net/writing/)
 - [Deep Learning on Graphs](https://yaoma24.github.io/cs785/index.html)
 
+大四:
+- [Mining of Massive Datasets](http://www.mmds.org/)
+- [Advanced Data Mining](https://wiki.illinois.edu/wiki/display/cs512/Home)
+- [Advanced Statistical Learning](https://www.bilibili.com/video/BV11v411K72y/)(ESL)
+- [Statistical Machine Learning](https://www.bilibili.com/video/BV1zh411o7xK/)(PRML)
+- [Fundamentals of Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)(DLBook)
+- [Natural Language Processing Algorithm](https://intro-nlp.github.io/)(Intro-NLP)
+
 <span class='anchor' id='-open'></span>
 
 # 🤖 开源项目
 
-[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1k+⭐)
+[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1.3k+⭐)
 
 <span class='anchor' id='-path'></span>
 # 🎁 我推荐的机器学习路线
