@@ -90,7 +90,7 @@ redirect_from:
 
 # 🤖 开源项目
 
-[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1.3k+⭐)
+[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1.5k+⭐)
 
 <span class='anchor' id='-path'></span>
 # 🎁 我推荐的机器学习路线
