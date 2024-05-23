@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是一名BNU-HKBU的大四学生，目前的研究方向是知识图谱的多任务协同构建。目前正在准备攻读研究型硕士/博士。
+我是一名BNU-HKBU的大四学生，目前的研究方向是在大语言模型中注入可分离的结构化知识。目前正在准备攻读研究型硕士/博士。
 
 
 我的研究领域包括：
 - 知识图谱
 - 大语言模型
-- 多任务学习
 - 自然语言理解
 
   
@@ -40,8 +39,8 @@ redirect_from:
 大一：
 - [Calculus I](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
 - [Linear Algebra](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Introduction to Linear Algebra)
-- Structure and Interpretation of Computer Programs
-- Object-Oriented Programming
+- C Language
+- Java Language
 - Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
 
 大二：
@@ -73,7 +72,6 @@ redirect_from:
 - [Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
 - [Advanced Statistics](https://stat510.org/)
-- [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Large Language Modeling Techniques](https://www.openbmb.org/community/course)
 - [Scientific Paper Writing](https://mmcheng.net/writing/)
 - [Deep Learning on Graphs](https://yaoma24.github.io/cs785/index.html)
@@ -85,13 +83,12 @@ redirect_from:
 - [Statistical Machine Learning](https://www.bilibili.com/video/BV1zh411o7xK/)(PRML)
 - [Fundamentals of Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)(DLBook)
 - [Natural Language Processing Algorithm](https://intro-nlp.github.io/)(Intro-NLP)
+- [Intro to Reinforcement Learning](https://github.com/zhoubolei/introRL)
+- [Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 
 <span class='anchor' id='-open'></span>
 
 # 🤖 开源项目
 
-[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(1.5k+⭐)
+[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(2k+⭐)
 
-<span class='anchor' id='-path'></span>
-# 🎁 我推荐的机器学习路线
-![image-path](https://raw.githubusercontent.com/NingJay/NingJay.github.io/master/images/Path.png)
