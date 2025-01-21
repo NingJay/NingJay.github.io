@@ -36,59 +36,59 @@ redirect_from:
 <span class='anchor' id='-kc'></span>
 
 # 📚 课程
-大一：
+level 1：
 - [Calculus I](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
 - [Linear Algebra](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Introduction to Linear Algebra)
-- C Language
-- Java Language
-- Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
-
-大二：
-- [Fundamental Statistics](https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN)(Main Book: Statistical Inference)
-- Fundamentals of Database Systems(Main Book: Datebase System Concepts)
-- Data Processing Workshop with Python(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
-- Data Structures and Algorithms(Main Book: Algorithms)
-- Regression Analysis(Main Book: Introduction To Linear Regression Analysis)
-- Distributed Data Processing
-- [Machine Learning](https://www.xuetangx.com/course/nju0802bt/14363483)(Main Book: Machine Learning Zhi-Hua Zhou)
-- [Linear Algebra II](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Linear Algebra and Its Applications)
 - [Calculus II](http://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=0&nid=490)(Main Book: Calculus: Early Transcendentals)
-- [Overview of Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+- [Linear Algebra II](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89)(Main Book: Linear Algebra and Its Applications)
+- [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+- [Fundamental Statistics and Probability
+](https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN)(Main Book: Statistical Inference)
+- Discrete Mathematics(Main Book: Discrete Mathematics and Its Applications)
+- Data Processing Workshop with Python(Main Book: Python Data Science HandMain Book: Essential Tools for Working with Data)
 
-大三:
-- [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
+level 2：
+- [Introduction to Analysis](https://www.bilibili.com/video/BV1px411C7bL/)
+- [Introduction to Algebra](https://www.bilibili.com/video/BV1qG4y1B74U)
+- [Abstract Linear Algebra](https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ)
+- [Computer Systems Principles](http://csapp.cs.cmu.edu/)
+- Data Structures and Algorithms(Main Book: dsacpp-3rd-edn)
 - [Design and Analysis of Algorithms](https://www.bilibili.com/video/BV11341167sn/)
+- [Statistical Inference](https://bimsa.net/activity/StaThy/)
+- [Data Mining](https://wiki.illinois.edu/wiki/display/cs412/Fall+2016+Course+Syllabus+and+Schedule)
+- [Overview of Machine Learning](https://www.xuetangx.com/course/nju0802bt/14363483)(Main Book: Machine Learning Zhi-Hua Zhou)
+- [Overview of Deep Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 - [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3D4NPYvvY7dvXiZ0awd4zn)
 - Statistical Computation(Book: Statistical Computing with R)
-- Calculus III(Main Book: Multivariable Calculus with Applications)
-- [Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/sp23/)
-- [Learning Method](https://amlbook.com/index.html)(LFD, FML)
-- [Machine Learning with Bayes View](https://uvaml1.github.io/)
-- [Machine Learning with Statistics View](https://people.eecs.berkeley.edu/~jrs/189/)
-- [Natural Language Processing - A Machine Learning Perspective](https://westlakenlp.github.io/nlpml/)
-- [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-- [Introduction of Knowledge Graph](https://www.icourse163.org/course/ZJU-1464119172)
-- [Natural Language Processing](http://course.inf.ed.ac.uk/anlp/)
-- [Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - [Optimization Methods](https://www.stat.cmu.edu/~siva/teaching/725/)
-- [Advanced Statistics](https://stat510.org/)
-- [Large Language Modeling Techniques](https://www.openbmb.org/community/course)
-- [Scientific Paper Writing](https://mmcheng.net/writing/)
-- [Deep Learning on Graphs](https://yaoma24.github.io/cs785/index.html)
 
-大四:
+level 3:
+- [Real Analysis](https://space.bilibili.com/401866970/lists/4418249?type=season)
+- [Complex Analysis](https://space.bilibili.com/1096900251/lists/356766?type=season)
+- [Probability Theory](https://space.bilibili.com/386319309/lists/2761992?type=season)
+- [Mathematical Statistics](https://bimsa.net/activity/DesAnaExp/)
+- [Learning Method](https://space.bilibili.com/32773300/lists/3561099?type=season)
+- [Machine Learning - Bayes](https://www.bilibili.com/cheese/play/ss16657)
+- [Machine Learning - Stat](https://github.com/percyliang/cs229t/tree/master/cs229t_fall_2018)
+- [Deep Learning](https://www.bishopbook.com/)
+- [Reinforcement Learning](https://datawhalechina.github.io/easy-rl/)
+- [Natural Language Processing - A Machine Learning Perspective](https://westlakenlp.github.io/nlpml/)
+- [Natural Language Processing](http://course.inf.ed.ac.uk/anlp/)
+- [Systems for ML](https://courses.cs.washington.edu/courses/cse599k/24au/)
 - [Mining of Massive Datasets](http://www.mmds.org/)
+- [Operating System](https://cs162.org/)
+- [Competitive Programming](https://vjudge.net/article/3284)
+
+
+level 4:
 - [Advanced Data Mining](https://wiki.illinois.edu/wiki/display/cs512/Home)
-- [Advanced Statistical Learning](https://www.bilibili.com/video/BV11v411K72y/)(ESL)
-- [Statistical Machine Learning](https://www.bilibili.com/video/BV1zh411o7xK/)(PRML)
-- [Fundamentals of Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)(DLBook)
-- [Natural Language Processing Algorithm](https://intro-nlp.github.io/)(Intro-NLP)
-- [Intro to Reinforcement Learning](https://github.com/zhoubolei/introRL)
-- [Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+- [Machine Learning Theory](https://fdu-open-exam.gitbook.io/csdiy/supplements/ji-qi-xue-xi-li-lun)
+- [Large Models](https://cx2eswhx4xn.feishu.cn/docx/ODpFdJLOzoVv0ExmXPQcmHOVnhH)
+- [Advanced Topic in Math Machine Learning](https://www.youtube.com/playlist?list=PLvtrkEledFjodK_UKua2h4exNMcWNGJrs)
 
 <span class='anchor' id='-open'></span>
 
 # 🤖 开源项目
 
-[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(2k+⭐)
+[深度学习调优指南](https://github.com/schrodingercatss/tuning_playbook_zh_cn)(2.7k+⭐)
 
